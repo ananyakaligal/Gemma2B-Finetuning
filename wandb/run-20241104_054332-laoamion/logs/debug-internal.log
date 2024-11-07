@@ -1,0 +1,20 @@
+{"time":"2024-11-04T05:43:32.243822481Z","level":"INFO","msg":"using version","core version":"0.18.5"}
+{"time":"2024-11-04T05:43:32.243837039Z","level":"INFO","msg":"created symlink","path":"/home/root/finetune/wandb/run-20241104_054332-laoamion/logs/debug-core.log"}
+{"time":"2024-11-04T05:43:32.355574684Z","level":"INFO","msg":"created new stream","id":"laoamion"}
+{"time":"2024-11-04T05:43:32.35560922Z","level":"INFO","msg":"stream: started","id":"laoamion"}
+{"time":"2024-11-04T05:43:32.355658824Z","level":"INFO","msg":"sender: started","stream_id":"laoamion"}
+{"time":"2024-11-04T05:43:32.355638776Z","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"laoamion"}}
+{"time":"2024-11-04T05:43:32.355667781Z","level":"INFO","msg":"handler: started","stream_id":{"value":"laoamion"}}
+{"time":"2024-11-04T05:43:32.75090788Z","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-04T05:43:33.83835398Z","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-04T05:44:22.194674686Z","level":"INFO","msg":"stream: closing","id":"laoamion"}
+{"time":"2024-11-04T05:44:22.194707418Z","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-04T05:44:22.195539023Z","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-04T05:44:22.72668851Z","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-11-04T05:44:22.726708157Z","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-11-04T05:44:22.726712706Z","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-04T05:44:23.426163868Z","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-04T05:44:23.739493927Z","level":"INFO","msg":"handler: closed","stream_id":{"value":"laoamion"}}
+{"time":"2024-11-04T05:44:23.739526248Z","level":"INFO","msg":"sender: closed","stream_id":"laoamion"}
+{"time":"2024-11-04T05:44:23.739518202Z","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"laoamion"}}
+{"time":"2024-11-04T05:44:23.745645281Z","level":"INFO","msg":"stream: closed","id":"laoamion"}
